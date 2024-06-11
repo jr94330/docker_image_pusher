@@ -6,4 +6,4 @@ kasmweb/nginx:1.25.3
 zhayujie/chatgpt-on-wechat
 homeassistant/home-assistant
 ypptec/nascab
---platform=linux/arm64 gdy666/lucky:latest
+--platform=linux/arm64/v7 gdy666/lucky:latest
