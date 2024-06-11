@@ -7,3 +7,4 @@ zhayujie/chatgpt-on-wechat
 homeassistant/home-assistant
 ypptec/nascab
 gdy666/lucky
+----platform=linux/amd64
