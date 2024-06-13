@@ -3,3 +3,4 @@ homeassistant/home-assistant
 --platform=linux/arm64 gdy666/lucky:latest
 --platform=linux/arm64 ypptec/nascab:latest
 --platform=linux/arm64 a76yyyy/qiandao:latest
+--platform=linux/arm64 whyour/qinglong:latest
