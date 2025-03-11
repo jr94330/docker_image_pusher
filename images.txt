@@ -4,3 +4,4 @@ homeassistant/home-assistant
 --platform=linux/arm64 ypptec/nascab:latest
 --platform=linux/arm64 a76yyyy/qiandao:latest
 --platform=linux/arm64 whyour/qinglong:latest
+--platform=linux/amd64 chishin/nginx-proxy-manager-zh:latest
