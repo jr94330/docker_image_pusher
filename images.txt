@@ -2,3 +2,4 @@ kasmweb/nginx:1.25.3
 homeassistant/home-assistant
 --platform=linux/amd64 chishin/nginx-proxy-manager-zh:latest
 --platform=linux/amd64 jc21/nginx-proxy-manager:latest
+--platform=linux/amd64 coreruleset/coraza:v3.0.4
